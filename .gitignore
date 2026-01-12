@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (in case you created one inside the folder)
+venv/
+env/
+.env
+.DS_Store
